@@ -53,6 +53,7 @@ $$
 $$
  h_{+}(t) \propto \frac{2G}{c^4} \frac{I_{xx} - I_{yy}}{D}
 $$
+
 where \( I_{xx} \) and \( I_{yy} \) are components of the mass quadrupole tensor, and \( D \) is the distance to the observer.
 
 ## Notes
